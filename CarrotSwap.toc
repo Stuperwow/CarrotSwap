@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: CarrotSwap
+## Notes: Equips Carrot on a Stick when you mount and puts your old trinket back when you dismount. /carrot
+## Author: Tim
+## Version: 1.2.0
+## SavedVariables: CarrotSwapDB
+## SavedVariablesPerCharacter: CarrotSwapCharDB
+## IconTexture: Interface\AddOns\CarrotSwap\CarrotSwap.tga
+
+CarrotSwap.lua
